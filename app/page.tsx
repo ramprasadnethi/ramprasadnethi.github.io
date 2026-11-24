@@ -32,12 +32,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className="shell content-section" aria-labelledby="speaking-review">
-        <div className="panel">
-          <h2 id="speaking-review">Conference speaking & peer review</h2>
-          <p>I speak at public conferences and review papers for IEEE and other established conferences and journals.</p>
-        </div>
-      </section>
       <section className="shell section-space">
         <p className="eyebrow">Selected work</p>
         <h2>Engineering, research & community</h2>
